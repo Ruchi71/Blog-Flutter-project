@@ -1,4 +1,4 @@
-# notesapp
+# BlogApp
 
 A new Flutter project.
 
