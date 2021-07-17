@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896788430771",
+    "project_id": "brew-app-161c7",
+    "storage_bucket": "brew-app-161c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896788430771:android:d2c3c31348061e1b2d95c6",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896788430771-2ku9nl6qjgpc781ou1fv001tjkdks1c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesapp",
+            "certificate_hash": "e26b899f9b613993bf255ec686cec3b2a4ea2a8f"
+          }
+        },
+        {
+          "client_id": "896788430771-0fg0gg21q7qmnbqlarjf2v7ch557hpqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FKmpaYAIqlZyY-RxRCdnK8r3x8uWR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896788430771-0fg0gg21q7qmnbqlarjf2v7ch557hpqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
